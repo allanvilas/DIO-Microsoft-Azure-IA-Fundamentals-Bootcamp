@@ -17,4 +17,4 @@ Passo bonus, não é mencionado no bootcamp mas é essencial.
 9. Limpeza: exclua os recursos não utilizados para evitar cobranças desnecessárias.
 
 ### Resultado final
-![Imagem do resultado do treinamento](https://github.com/allanvilas/DIO-Microsoft-Azure-IA-Fundamentals-Bootcamp/blob/main/img/LAB01-Result.png)
+![Imagem do resultado do treinamento](https://github.com/allanvilas/DIO-Microsoft-Azure-IA-Fundamentals-Bootcamp/blob/main/img/LAB01/LAB01-Result.png)
